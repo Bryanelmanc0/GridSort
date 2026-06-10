@@ -1,0 +1,6 @@
+{
+  "name": "GridSort Challenge",
+  "description": "Un adictivo juego de lógica numérica en el que pondrás a prueba tu velocidad y mentalidad matemática ordenando cuadrículas de números según distintos patrones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
